@@ -10,10 +10,10 @@ import requests
 
 
 #Twitter API credentials
-consumer_key = "T5LUpPCVrvX6ogd4BdRQhtRKz"
-consumer_secret = "3ptof8Ry1L7gkcIfaeK8egLZEsqAPzIulm9Kp4ixMh7nV4fqnh"
-access_key = "1035597034584199170-Hpn1372cGrcKl2zs0VqRFh0FQZvb8G"
-access_secret = "3APPZr1IQoG339QWJRdEBd0HpWqNfo8hgMzRp0VacUh60"
+consumer_key = 
+consumer_secret = 
+access_key = 
+access_secret = 
 
 
 def get_tweets_pic(screen_name):
