@@ -1,0 +1,8 @@
+pic6_Labels:
+
+hair coloring
+advertising
+product
+album cover
+
+

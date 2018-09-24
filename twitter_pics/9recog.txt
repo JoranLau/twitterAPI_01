@@ -1,0 +1,14 @@
+pic9_Labels:
+
+person
+fun
+emotion
+smile
+event
+product
+night
+drink
+friendship
+drinking
+
+

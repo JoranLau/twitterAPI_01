@@ -1,0 +1,12 @@
+pic5_Labels:
+
+hair
+facial hair
+beard
+moustache
+fedora
+headgear
+hat
+gentleman
+
+

@@ -1,0 +1,14 @@
+pic7_Labels:
+
+black
+photograph
+musician
+music artist
+music
+microphone
+singer
+performance
+singing
+guitarist
+
+

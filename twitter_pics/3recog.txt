@@ -1,0 +1,14 @@
+pic3_Labels:
+
+black and white
+microphone
+musician
+music artist
+singer
+photography
+guitarist
+musical instrument
+music
+monochrome photography
+
+
